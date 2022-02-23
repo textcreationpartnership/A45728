@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heavens glory, and hells horror: or, the parable of Dives and Lazarus opened and applied Wherein, the everlasting joy of the saints and the endless torments of the wicked are discovered: for the confort of the one, and terror of the other. By J.H. a servant of Jesus Christ.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45728</idno>
+            <idno type="STC">Wing H955</idno>
+            <idno type="STC">ESTC R216587</idno>
+            <idno type="EEBO-CITATION">99828313</idno>
+            <idno type="PROQUEST">99828313</idno>
+            <idno type="VID">32740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32740)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heavens glory, and hells horror: or, the parable of Dives and Lazarus opened and applied Wherein, the everlasting joy of the saints and the endless torments of the wicked are discovered: for the confort of the one, and terror of the other. By J.H. a servant of Jesus Christ.</title>
+                  <author>Hart, John, D.D.</author>
+               </titleStmt>
+               <extent>[48] p. : ill  </extent>
+               <publicationStmt>
+                  <publisher>printed for John Andrews, at the White Lion, near Pye-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J. H. = John Hart.</note>
+                  <note>With a frontispiece woodcut portrait.</note>
+                  <note>Signatures: A-C.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parables --  Early works to 1800.</term>
+               <term>Heaven --  Early works to 1800.</term>
+               <term>Hell --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-12</date>
+            <label>Jason Colman</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32740:1" rendition="simple:additions"/>
+            <p>HEAVENS Glory, And Hells Horror: OR, The Parable of DIVES and LAZA<g ref="char:EOLhyphen"/>RUS opened and applied.</p>
+            <p>Wherein, the everlaſting Joy of the Saints and the endleſs Torments of the Wicked are diſcovered: for the Comfort of the one, and Terror of the other.</p>
+            <p>By <hi>J. H.</hi> a Servant of Jeſus Chriſt.</p>
+            <q>
+               <bibl>
+                  <hi>Mat. 25.46.</hi>
+               </bibl>
+               <p>Theſe ſhall go away into ever<g ref="char:EOLhyphen"/>laſting puniſhment; but the Righteous into life eternal.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Andrews,</hi> at the White Lion, near <hi>Pye-Corner.</hi> 1662.</p>
+            <pb facs="tcp:32740:2"/>
+            <figure>
+               <figDesc>portrait</figDesc>
+            </figure>
+            <q>
+               <bibl>
+                  <hi>John 5.28, 29.</hi>
+               </bibl>
+               <p>Marvel not at this, for the hour is c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g, in the which all that are in the graves ſhall hear <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ice, and ſhall come forth. They that have done good, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e reſurrection of life; and they that have done evil, to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urrection of damnation.</p>
+            </q>
+            <pb facs="tcp:32740:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32740:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32740:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32740:4" rendition="simple:additions"/>
+            <pb facs="tcp:32740:4"/>
+            <head>Heavens Glory, AND Hells horror. Or, the Parable of DIVES and LAZARUS opened and applied.</head>
+            <epigraph>
+               <q>
+                  <bibl>Luke, 16.19, 20, &amp;c.</bibl>
+                  <p>There was a certain rich man, which was clothed in purple, and fine linnen, and fared ſumptuouſly every day.</p>
+                  <p>And there was a certain beggar named Lazarus, which was laid at his gate full of ſores,</p>
+                  <p>And deſiring to be fed with the crumbs which fell from the rich mans table: more<g ref="char:EOLhyphen"/>over, the dogs came and licked his ſores.</p>
+                  <p>And it came to paſs that the beggar died, and was carried by Angels into Abrahams
+<pb facs="tcp:32740:5"/>boſome, the rich man alſo dyed, and was buried.</p>
+                  <p>And in Hell he lift up his eyes being in torments, and ſeeth Abraham afar off, and Lazarus in his boſome.</p>
+                  <p>And he cryed, and ſaid, Father Abraham, have mercy on me, and ſend Lazarus, that he may dip the tip of his finger in water, and cool my tongue, for I am tormented in this flame.</p>
+                  <p>But Abraham ſaid, Son, remember that thou in thy life time receivedſt thy good things, and likewiſe Lazarus evill things, but now he is comforted and thou art tor<g ref="char:EOLhyphen"/>mented.</p>
+                  <p>And beſides all this, between us and you there is a great gulf fixed, ſo that they which would paſs from hence to you, can<g ref="char:EOLhyphen"/>not; neither can they paſs to us, that would come from thence.</p>
+                  <p>Then he ſaid, I pray thee therefore fa<g ref="char:EOLhyphen"/>ther, that, thou wouldeſt ſend him to my fathers houſe:</p>
+                  <p>For I have five brethren, that he may teſtifie unto them, leſt they alſo come into this place of torment.</p>
+                  <p>Abraham ſaith unto him, They have Mo<g ref="char:EOLhyphen"/>ſes and the Prophets, let them hear them.</p>
+                  <pb facs="tcp:32740:5"/>
+                  <p>And he ſaid, Nay, father Abraham: but if one went unto them from the dead, they will repent.</p>
+                  <p>And he ſaid unto him, If they hear not Moſes and the Prophets, neither will they be perſwaded though one roſe from the dead.</p>
+               </q>
+            </epigraph>
+            <p>THeſe words, beloved in our Lord and Saviour Ieſus Chriſt, contain the Parable, or rather the Hiſtory (as I humbly conceive) of the rich Glutton and poor <hi>Lazarus.</hi> In the words, we have firſt in general the life and death both of the rich man and the beggar, with the condition of them both in the life to come: But more particularly in the thrée firſt verſes, we finde recor<g ref="char:EOLhyphen"/>ded for our inſtruction, the lives firſt of the rich Glutton, and then of poor <hi>Lazarus.</hi> In the following verſes, we have the death firſt of the Beggar, and ſecondly of the rich Glutton, with the different condition of them both after death.</p>
+            <p>To begin with the firſt, the life of the rich man, and this we finde recorded
+<pb facs="tcp:32740:6"/>in the <hi>19.</hi> verſe, <hi>There was a certain rich man which was clothed in purple and fine linnen, and fared ſumptuouſly every day.</hi> In the life of the rich man we have three particulars very conſider<g ref="char:EOLhyphen"/>able:</p>
+            <p>Firſt, he is here preſcribed by his riches: <hi>There was a certain rich man.</hi> The Spirit of God here takes no more notice of the rich mans name, neither of the place where he lives; from whence we may take notice, that God regards not thoſe whom the world poſſibly may greatly honour: many men perhaps might honour this mans name, by affixing unto it the empty title of Worſhipful, or Honourable; but thoſe <hi>that deſpiſe God ſhall be light<g ref="char:EOLhyphen"/>ly eſteemed,</hi> ſaith <hi>Solomon</hi> in that excel<g ref="char:EOLhyphen"/>lent Book called the <hi>Proverbs.</hi> God can blot out the names of wicked men as well out of the Book of this life, as out of the life to come: yea, many times he maketh both the names and eſtates of wicked men to rot and ſtink in this world, well then may he puniſh their ſouls in the world to come. <hi>The memory of the juſt</hi> (ſaith <hi>Solomon</hi>) <hi>is
+<pb facs="tcp:32740:6"/>bleſſed, but the name of the wicked ſhall rot.</hi> God will not have the name of wicked men to be mentioned but with ſhame and diſgrace to them, as for ex<g ref="char:EOLhyphen"/>ample, <hi>Jeroboam,</hi> and this character followeth, <hi>who made Iſrael to ſin; but the righteous ſhall be had in everlaſting remembrance, and the deſire of the wic<g ref="char:EOLhyphen"/>ked ſhall periſh, Pſalm 112.6.</hi> It is the great deſire (I know) of the wicked that their names ſhould continue for ever, and for this purpopoſe, <hi>they call their Houſes and Lands by their owne names;</hi> but the very deſire of theſe men ſhall periſh. But I procéed.</p>
+            <p>In the ſecond place, where the rich man is deſcribed by his apparel, and that is ſaid to be purple and fine lin<g ref="char:EOLhyphen"/>nen, which ſignifies not onely the greatneſs of his riches, but the eminen<g ref="char:EOLhyphen"/>cy of his perſon and place in the world, namely, that he was ſome Ruler among the Iewes. Purple clothing ye know in the ornament of Kings and great ones of the world, and they that wear fine linnen are in Kings houſes; that is, they are either Kings themſelves, or elſe great Officers under Kings,
+<pb facs="tcp:32740:7"/>from whence we may obſerve, that Greatneſs and Honour, riches and gorgeous apparel, commends us not to God; it is not all the riches in the world that can ſave a ſoul, it is onely grace that commends us to God: God can ſee a pure heart and a gracious ſoul though they be clothed in rags; for God judgeth not as men judgeth, according to outward experience, no, he ſeeth many a rotten graceleſs ſoul under ſcarlet gowns and purple robes. Among all the Kings of Iſrael there was not one gracious, and among the Kings of <hi>Judah,</hi> onely one good <hi>Joſiah</hi> that walked before the Lord with a perfect heart. It is true, there was <hi>Aſa,</hi> and <hi>Amaziah,</hi> and <hi>Hezekiah,</hi> that the Text deſcribes as imperfect in ſome things; but of <hi>Joſiah</hi> it is ſaid of him, <hi>He did that which was right in the ſight of the Lord, and walked in all the wayes of David his father, and turned not aſide to the right hand or to the left.</hi> That of the Apoſtle, <hi>1 Cor. 1.26.</hi> doth fully confirm this truth; <hi>Not many wiſe men, not many after the fleſh, not many mighty, not many noble are called.</hi>
+            </p>
+            <pb facs="tcp:32740:7"/>
+            <p>Thirdly, We have the deſcription of this rich Glutton by his fare, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat not onely barely deſcribed, but al<g ref="char:EOLhyphen"/>ſo amplified here by the Spirit of God; <hi>He fared ſumptuouſly every day.</hi> It was not now and then, but every day; day after day: if he had done it but now and then, it might have béen lawful; for God doth not onely give the Crea<g ref="char:EOLhyphen"/>tures for our uſe, but alſo for our de<g ref="char:EOLhyphen"/>light, and moderate feaſting may be lawful; yet by the way, that is a good caution of our bleſſed Saviour in the <hi>14.</hi> Chapter of St. <hi>Lukes</hi> Goſpel and the <hi>13.</hi> Verſe, <hi>When thou makeſt a feaſt, call the poor, the lame, and the blinde, and thou ſhalt be bleſſed.</hi> God invites the poor and feaſts the poor with the riches of his houſe, but the rich he ſends them empty away. They are full, and ſo have no need of Gods bounty: God filleth onely the hungry with the good things of grace and glo<g ref="char:EOLhyphen"/>ry; they that are alwayes feaſting, are certainly alwayes full, but when thou makeſt a feaſt, remember the poor, they may have need of thy bounty. Every one almoſt will feaſt the rich, but
+<pb facs="tcp:32740:8"/>
+               <hi>bleſſed is he that conſidereth the poor and needy.</hi>
+            </p>
+            <p>This rich Glutton never grieved to ſpend thouſands and ten thouſands up<g ref="char:EOLhyphen"/>on his own baſe rotten ſtinking car<g ref="char:EOLhyphen"/>kaſs, but he never remembred <hi>Lazarus</hi> at his gate; he grudged to ſpare him that which he ſo plentifully left to his Dogs, not ſo much as a crumb for <hi>La<g ref="char:EOLhyphen"/>zarus.</hi> Not unlike to this rich Glutton are many wicked wretches in theſe our dayes, whom God hath loaded with this rich clay; <hi>they can drink wine in bowls, but they regard not the afflictions of Joſeph.</hi> How many thouſands doe ſome rich Cormorants ſpend laviſhly in feaſting, who have not a braſs-far<g ref="char:EOLhyphen"/>thing to ſpare for the poor; but let rich men remember the time is com<g ref="char:EOLhyphen"/>ing, if they repent not, when they may be in as much want of a drop of water, as the pooreſt man ever was of a crumb of bread.</p>
+            <p>Having done now with the rich mans life, I come to give you the life of the poor man; and this we have in the <hi>20.</hi> and <hi>21.</hi> verſes very ſweetly re<g ref="char:EOLhyphen"/>corded. In the firſt place, as the other
+<pb facs="tcp:32740:8"/>was deſcribed by his riches, ſo on the contrary he is here deſcribed by his po<g ref="char:EOLhyphen"/>verty. He was not onely poor and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow in the world, but even ſo poor that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e went a begging, the more ſhame for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he rich Glutton, that had enough to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upply him. <hi>Dives</hi> might have ſpared that from his Dogs which might have kept poor <hi>Lazarus</hi> from begging; from whence we may obſerve, that begging <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not unlawful in caſe of neceſſity, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough it be a ſhame for ſuch a flouriſh<g ref="char:EOLhyphen"/>ing Nation as this is, which ſo much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bounds with plenty, and wherein <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is ſo much ſpent in ſuperfluity and wickedneſs, to ſuffer any to go a begging; yet it is not a ſhame for any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o beg from door to door when neceſſity requires. It is rather a ſhame for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich who have ſuch plenty that they do not relieve the poor, and ſo keep them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom begging; but it is no ſhame for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man to beg when he is in want. Rich <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en ſhould viſit thoſe that are poor and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eedy, it is their duty ſo to do, and they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall be puniſhed that do it not: <hi>the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erciful ſhall obtain mercy.</hi>
+            </p>
+            <p>See the ſad doom of thoſe who ſtarve
+<pb facs="tcp:32740:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:32740:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:32740:10"/>the poor, and do not relieve them, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>25.</hi> of St. <hi>Matthew:</hi> unmercifu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men do not onely ſlight the poor, but i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſlighting of them, they alſo ſlight Chriſt; <hi>In as much as ye did it not t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the poor, you did it not to me.</hi> In ſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ving the poor you ſtarve Chriſt, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much as in you lies; and Chriſt wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſay to ſuch unmerciful men at the la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> day, <hi>Go ye curſed into everlaſting fi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> prepared for the Devil and his angels:</hi> came a begging to your doors many time in my poor members, and ye re<g ref="char:EOLhyphen"/>lieved me not: You let my poor mem<g ref="char:EOLhyphen"/>bers cry and call to you for Bread Bread, for the Lords ſake, and yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gave it them not; you ſtopped you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ears at the cry of the poor, and no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though you cry never ſo loud, you ſhal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not be heard. <hi>Whoſo ſtoppeth his ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at the cry of the poor,</hi> (ſaith <hi>Solomon Prov. 21.13.) he alſo ſhall cry, and no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be heard.</hi> They that will not hear th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor when they beg for bread, Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will not hear them when they beg fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> water: and for certain, they that wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not give a crumb, ſhall be denied drop.</p>
+            <pb facs="tcp:32740:10"/>
+            <p>
+               <hi>He that wants mercy, of mercy ſhall miſs, But he ſhall have mercy that merciful is.</hi> But I have written of this ſubject in another Book, called, <hi>The Charitable Chriſtian.</hi> I procéed.</p>
+            <p>Secondly, We have the poor man here deſcribed by his name; <hi>There was a certaine beggar named Lazarus:</hi> al<g ref="char:EOLhyphen"/>though <hi>Dives</hi> regarded him not, yet God has him in remembrance. God knows his ſervants by their names, yea, God records the very names of his ſervants though never ſo poor, he takes notice of them by their very names. As for men, they know the men of the world by their names, and by their ho<g ref="char:EOLhyphen"/>nours, but God blots their names out of his remembrance; but the name of the upright ſhall be bad in everlaſting remembrance: and this ſhould comfort thoſe that are godly in all their wants, God knows both their names and their wants.</p>
+            <p>Thirdly, the poor man is deſcribed by the place where he lay, namely, at the rich mans gate. Had he been rit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he ſhould have been received into his palace, and richly entertained at his
+<pb facs="tcp:32740:11"/>table; but being poor and miſerable, he is onely laid at his gate. Wicked men will let thoſe lie at their gates whom God will receive into his par<g ref="char:EOLhyphen"/>lour, they are aſhamed that ſuch poor men as <hi>Lazarus</hi> ſhould once come with<g ref="char:EOLhyphen"/>in their gates: rich men ſhut their gates againſt the poor, and God will ſhut the gates of Heaven one day a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>And then fourthly, The poor man is here ſet forth by his miſery; he is not onely poor, but alſo full of ſores; ſo full of ſores, that he is not able to go or ſtand without crutches; he is laid at the rich mans gate, and there he lies, but neither his want nor his ſores are regarded by the rich man. His warm clothing and his ſumptuous fare made him ſenſeleſs of the poverty and ſores of poor <hi>Lazarus;</hi> the full belly and the warm clothing of thoſe that are rich, makes them regardleſs of the wants of the poor. The rich doth not know what a hungry belly means; they that are well clothed, do not conſider the nakedneſs and want of others. If we did rightly conſider it, our fulneſs
+<pb facs="tcp:32740:11"/>ſhould provoke us to regard and ſupply thoſe which want; there is no love of God in that man who ſées the poor in want, and will not relieve them when he hath wherewith to do it. And thus much of the life of the poor man, hun<g ref="char:EOLhyphen"/>gry, cold, naked, full of ſores, and ex<g ref="char:EOLhyphen"/>céeding miſerable as to this life.</p>
+            <p>From whence obſerve, God ſuffers his poor people oftentimes to be in great miſery; they who ſhall for ever be clothed with glory, honour, and im<g ref="char:EOLhyphen"/>mortality with Chriſt, may want cloathing for their backs in this world; they who for ever ſhall be clothed with robes, yea the robes of Chriſt, may have nothing but rags to put on in this world; they that ſhall be filled with the glory of Chriſt in Heaven, may want bread to eat here below; they who ſhall know no want hereafter, may want bread to eat here: this was the condi<g ref="char:EOLhyphen"/>tion of our bleſſed Saviour himſelf, he had not ſo much as a hole to lay his head in, not a Cradle to lye in when he was born; he who was the bread of life wanted bread to eat in this life: he was a man of ſorrows, augmented with
+<pb facs="tcp:32740:12"/>grief, con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emned, and ſcorned by the world; he who was Lord both of hea<g ref="char:EOLhyphen"/>ven and earth, had not ſo much as a hole to put his head in when he was upon earth. <hi>Lazarus</hi> who is now in <hi>Abrahams</hi> boſom was laid at the rich mans gate, and he who was then full of ſores, now knows no ſorrow: he hath all tears now wiped away from from his eyes, who might have cryed his eyes out for bread at the rich mans gate; they that know no want in the world to come, may know no<g ref="char:EOLhyphen"/>thing but want in this world.</p>
+            <p>In the next place, as an addition to the lives of them both, we have the poor mans humility, and the rich mans cru<g ref="char:EOLhyphen"/>elty; and this is firſt ſet forth by the ſmallneſs of that which <hi>Lazarus</hi> deſired, onely a few crumbs; he did not come to <hi>Dives</hi> to beg, any of his Lands or Lordſhips, neither any of his meſſes or coſtly diſhes; had <hi>Lazarus</hi> deſired any of theſe, he might have denied him as too hold: You know we have a common Proverb amongſt us, that Beggars muſt not be chuſers; and its not more common then true, they that are truly poor will be thankful for the leaſt
+<pb facs="tcp:32740:12"/>crumb, for the ſmalleſt gift: <hi>Lazarus</hi> deſired onely to be fed with the crumbs that fell from his table, not his dain<g ref="char:EOLhyphen"/>ties. And then ſecondly, the rich mans cruelty is here condemned by the com<g ref="char:EOLhyphen"/>paſſion of his dogs; <hi>Dives</hi> regarded neither his hunger nor his ſores, but the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs they pittied his wounds, they came and licked his ſores, they did what they could to eaſe his pains; thoſe cruel creatures, whoſe natures are ſo fierce and cruel, and apt to bite and devour, they forget their wonted cruelty, and as much as in them lyes labour to heal or eaſe the poor mans ſores. Its not im<g ref="char:EOLhyphen"/>probable, but that the dogs were let looſe purpoſely to affrighten <hi>Lazarus</hi> from his gate, or elſe to devour him; rich Gluttons uſually kéep ſuch fierce and devouring creatures purpoſely to kéep or frighten the poor from their gates, but God can reſtrain the rage of the fierceſt creatures to preſerve his people; he can ſhut the mouths of Li<g ref="char:EOLhyphen"/>ons, that they devour not <hi>Daniel;</hi> he can cauſe the Dogs, contrary to their natures, to lick the ſores of <hi>Lazarus.</hi>
+            </p>
+            <p>In the next place we come to give
+<pb facs="tcp:32740:13"/>you the deaths both of the beggar and the rich man; <hi>And it came to paſs, that the beggar died:</hi> God hath now given him a writ of eaſe from all his ſores; no more ſorrow nor pain now, no more hunger, nor cold, nor nakedneſs, God hath releaſed the poor man out of all his miſeries.</p>
+            <p>From whence we may obſerve, that death to the godly is a bleſſed privi<g ref="char:EOLhyphen"/>ledge, it puts an end to all their woes, though heavineſs may endure for a night, yet joy comes in the morning; though poverty, loſſes, and diſgraces, and all kinde of outward afflictions may attend Gods people in this life, yet when death comes there's an end of all theſe. In a word, death is the beſt friend a childe of God hath next to Ieſus Chriſt; it doth not onely deliver them from their ſorrow, but it tranſ<g ref="char:EOLhyphen"/>lates them to their joyes; it is the meſſenger of God their heavenly Fa<g ref="char:EOLhyphen"/>ther, who comes onely to call them home to their Fathers houſe, to inhe<g ref="char:EOLhyphen"/>rit thoſe everlaſting joyes, which God hath prepared for them to all eternity, <hi>Lazarus</hi> was not onely releaſed from his
+<pb facs="tcp:32740:13"/>ſorrows by death, but he is carried by the Angels into <hi>Abrahams</hi> boſom; death takes him from the woes of this world, and the Angels they tranſport him to everlaſting glory in the world to come. God hath releaſed <hi>Lazarus</hi> from all his miſeries.</p>
+            <p>But what becomes of the Glutton? <hi>The rich man alſo died, and was buried:</hi> From whence we may obſerve, that neither riches nor honours can prevent death; he knocks as well at the Court as at the Cottage; he regards Scarlet Gowns and Purple Robes no more then he doth the pooreſt beggars rags; death deprives men of all their ho<g ref="char:EOLhyphen"/>nours and riches; the rich fool in the Goſpel he ſings a requiem to his ſoul, and this very night death comes, and then whoſe are all theſe. 'Tis neither Purple Robes nor ſumptuous Apparel that can prevent death; God cuts off wicked men in the midſt of their mirth and jollity; in the grave there is no difference between the poor and the rich, the worms may be finde better fare upon the fat Carkaſſes of rich Gluttons, then of the poor. Well,
+<pb facs="tcp:32740:14"/>the rich man he dyed alſo, what be<g ref="char:EOLhyphen"/>comes of him afterwards, his body that is honourably buried by his friends; I, but what becomes of his ſoul? that you read is hurried into hell; he is huried, <hi>and in hell he lift up his eyes.</hi>
+            </p>
+            <p>From whence we may obſerve, That the Lord Ieſus Chriſt doth hereby ſigni<g ref="char:EOLhyphen"/>fie, that men are naturally unwilling to ſee or take notice of their ſad ſtate, I ſay by nature; but though now they are willingly ignorant; yet in Hell they ſhall lift up their eyes. That is, in Hell they ſhall ſee and underſtand their miſerable condition; and therefore to theſe words. <hi>In Hell he lift up his eyes,</hi> he added, <hi>being in torment.</hi> As if he had ſaid, Though once they ſhut their eyes, though once they were willingly ignorant; yet when they depart into Hell, they ſhall be ſo miſerably hand<g ref="char:EOLhyphen"/>led and tormented, that they ſhall be forced to lift up their eyes. For while men live in this world, and are in a natural ſtate, they will have a good conceit of themſelves, and of their condition; they will conclude that they
+<pb facs="tcp:32740:14"/>are Chriſtians, and their ſtate to be as good as the beſt; they will conclude they have faith, the ſpirit, good hope, and an intereſt in the Lord Ieſus Chriſt: but then, when they drop into Hell, and lift up their eyes there, and behold, firſt their ſoul to be in extream torments; their dwelling to be the bottomleſs pit; their company thou<g ref="char:EOLhyphen"/>ſands of damned ſouls; alſo the innu<g ref="char:EOLhyphen"/>merable company of Devils, and the hot ſcalding vengeance of God; not onely to drop, but to fall very violently upon them; then they will begin to be awakened, who all their life time were in a dead ſleep. I ſay, when this comes to paſs, as it will, then in hell they ſhall lift up their eyes; in the midſt of torments they ſhall lift up their eyes.</p>
+            <p>Again, you may obſerve from theſe words. <hi>And in hell he lift up his eyes be<g ref="char:EOLhyphen"/>ing in torment.</hi> That the time of the un<g ref="char:EOLhyphen"/>godly mens ſmarting for their ſins, will be in torments of hell. Now here I am put to a ſtand, when I conſider the torments of hell, into which the dam<g ref="char:EOLhyphen"/>ned do fall. O unſpeakable torments! O endleſs torments! Now that thy
+<pb facs="tcp:32740:15"/>ſoul might be made to flée from theſe t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollerable torments, into which the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amned do go. I ſhall ſhew you darkly and briefly what are the torments of Hell. Firſt, by the names of it. Se<g ref="char:EOLhyphen"/>condly, by the ſad ſtate thou wilt be in, if thou comeſt there. Firſt, the names. It is called <hi>a never dying worm. Mark 9.</hi> It is called <hi>an oven <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire hot, Mal. 4.1.</hi> It is called a <hi>furnace, a fiery fur<g ref="char:EOLhyphen"/>nace, Mat. 13.</hi> It is called <hi>the bottomleſs pit, the unquenchable fire, fire and brim<g ref="char:EOLhyphen"/>ſtone, hell fire, the lake of fire, devouring fire, everlaſting fire, eternal fire, a ſtream of fire, Rev. 21.</hi>
+            </p>
+            <p>Firſt, one part of thy torments will be this, thou ſhalt have a full ſight of all thy ill-ſpent life from firſt to laſt, though here thou canſt ſin to day, and forget it by to morrow; yet there thou ſhalt be made to remember how thou didſt ſin againſt God at ſuch a time, and in ſuch a place, for ſuch a thing, and with ſuch an one, which will be an hell unto thee.</p>
+            <p n="2">2. Thou ſhalt have the guilt of them all lie heavy on thy ſoul, not onely the guilt of one or two, but the guilt of
+<pb facs="tcp:32740:15"/>them all together, and there they ſhall lie in thy ſoul, as if thy belly were full of pitch, and ſet on a light fire. Now here men can ſometimes think on their ſins with delight, but there with unſpeak<g ref="char:EOLhyphen"/>able torment; for that I underſtand to be the fire that Chriſt ſpeaketh of, which ſhall never be quenched, Mark, while men live here, O how doth the guilt of one ſin ſometimes cruſh the ſoul, it makes a man in ſuch plight, that he is weary of his life, ſo that he can neither reſt at home nor abroad, neither up nor in bed. Nay I do know, that they have been ſo tormented with the guilt of one ſinful thought, that they have béen even at their wits end. But now when thou comeſt into hell, and haſt not onely one or two, or an hundred ſine with the guilt of them all on thy ſoul and body; but all the ſins that ever thou didſt commit ſince thou cameſt into the world, all together clapt on thy con<g ref="char:EOLhyphen"/>ſcience at one time, as one ſhould clap a red hot iron to thy breaſts, and there to continue to all eternity, this is mi<g ref="char:EOLhyphen"/>ſerable.</p>
+            <p n="3">3. Again, then thou ſhalt have brought
+<pb facs="tcp:32740:16"/>to thy remembrance the ſlighting of the Goſpel of Chriſt; here now thou ſhalt conſider how willing Chriſt was to come into the world to ſave ſinners, and for what a trifle thou didſt reject him. This is plainly held forth in <hi>Iſa. 28.</hi> where ſpeaking of the Lord Ieſus Chriſt the foundation of ſalvation, ver. <hi>16.</hi> he ſaith of them that reject the Goſpel, that when the overflowing ſcourge doth paſs through the earth, (which I underſtand to be at the end of the world) then ſaith he, <hi>It ſhall take you morning by morning, by day adn by night ſhall it paſs over you;</hi> that is, continu<g ref="char:EOLhyphen"/>ally without any intermiſſion. Now theſe are the words I aim at, where he ſaith, <hi>And ſhall be a vexation onely to hear the report.</hi> A vexation, that is, a torment, or a great part of hell onely to underſtand the report, that is, to un<g ref="char:EOLhyphen"/>derſtand the good tidings that came in<g ref="char:EOLhyphen"/>to the world by Chriſts death for poor ſinners, and you will finde this to be verily the minde of the Spirit, if you compare it with <hi>Iſa. 53.1.</hi> where he ſpeaks of mens turning their backs upon the tenders of Gods grace in the
+<pb facs="tcp:32740:16"/>Goſpel, he ſaith, <hi>Who hath believed our report,</hi> or the Goſpel declared by us? Now this will be a torment to the un<g ref="char:EOLhyphen"/>godly, when they ſhall underſtand the goodneſs of God was ſo great, that he even ſent his Son out of his boſom to dye for ſinners, and yet that they ſhould be ſo fooliſh, as to put him off from one time to another; that they ſhould be ſo fooliſh as to loſe heaven, and Chriſt, and eternal life in glory, for the ſociety of a company of Drunkards; that they ſhould loſe their ſouls for a little ſport, for this world, for a ſtrumpet, for that which is lighter then vanity, and no<g ref="char:EOLhyphen"/>thing. I ſay, this will be a very great torment unto thee.</p>
+            <p n="4">4. Another part of thy torment will be this, thou ſhalt ſee thy friends, thy acquaintance, thy neighbours; nay, it may be thy father, thy mother, thy wife, thy husband, thy children, thy brother, thy ſiſter, with others in the kingdom of heaven, and thy ſelf thruſt out. And this is that, that Chriſt told the Iews would befall them in <hi>Luke 13.28. There ſhall be weeping, &amp;c. when you ſhall ſee Abraham</hi> (your Father) <hi>and Iſaac, and
+<pb facs="tcp:32740:17"/>Jacob,</hi> (together with your Brethren) <hi>the Prophets in the Kingdom of Heaven, and your ſelves thruſt out.</hi> Nay, ſaith he, There ſhall come from the Eaſt, and from the Weſt, that is, thoſe that thou didſt never ſee in all thy life before, and ſhall ſit down with thy friends, and thy neighbours, thy wife, and thy children in the Kingdom of Heaven, and thou for thy ſins and diſobedience ſhalt be ſhut, nay, thruſt out. O wonderful tor<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="5">5. Again, thou ſhalt have none but a company of damned ſouls, with an in<g ref="char:EOLhyphen"/>numerable company of huge devils to kéep company with thee. While thou art in this world, the very thoughts of the devils appearing to thee, makes thy fleſh to tremble, and thine hair ready to ſtand upright on thy head. But O what wilt thou do, when not onely the ſuppo<g ref="char:EOLhyphen"/>ſition of the devils appearing, but the real ſociety of all the devils in hell to be with thee howling and roaring, ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eching and yelling in ſuch a hideous manner, that thou wilt be even at thy with end, and be ready to run ſtark mad again for anguiſh and torment.</p>
+            <pb facs="tcp:32740:17"/>
+            <p n="6">6. Again, that thou mighteſt be tor<g ref="char:EOLhyphen"/>mented to purpoſe, the mighty God of heaven will lay as great wrath and ven<g ref="char:EOLhyphen"/>geance upon thee, as ever he can, by the might of his glorious power. As I ſaid before; Thou ſhalt have his wrath not by drops, no. but by whole ſhowres ſhall it come thunder, thunder upon thy body and ſoul ſo faſt, and ſo thick, that thou ſhalt be tormented out of meaſure. And ſo ſaith the Scripture, <hi>2 Theſ. 1.9.</hi> ſpeaking of the wicked. <hi>Who ſhall be pu<g ref="char:EOLhyphen"/>niſhed with everlaſting deſtruction from the preſence of the Lord, and from the glo<g ref="char:EOLhyphen"/>ry of his power, when the Saints ſhall be admiring his goodneſs and glory.</hi>
+            </p>
+            <p>Again, this thou ſhalt have, as I ſaid before, without and intermiſſion, thou ſhalt not have any eaſe ſo long as while am n may turn himſelf round: thou ſhalt have it alwayes every hour, day and night: for their worm never dyes, but alwayes gnaws, and their fire is never quenched. As it is written in <hi>Mark 9.</hi>
+            </p>
+            <p n="7">7. Again, in this condition thou muſt be for ever, and that is as ſad as all the reſt. For if a man were have all his
+<pb facs="tcp:32740:18"/>ſins laid to his charge, and communion with the devils, and as much wrath as the great God of heaven can inflict up<g ref="char:EOLhyphen"/>on them. I ſay, if it were but for a time, even ten thouſand years, if then it might have an end, there would be ground of comfort, and hopes of deli<g ref="char:EOLhyphen"/>verance; but here is thy miſery, this is thy ſtate for ever, here thou muſt be for ever: when thou lookeſt about thee, and ſéeſt what an innumerable company of howling devils thou art amongſt, thou ſhalt think this again, this is my portion for ever. When thou haſt béen in he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſo many thouſand years as there are ſtars in the firmament, or drops in the ſea, or ſands on the ſea ſhore, yet thou haſt to lye there for ever. O this one word, ever, how will it torment thy ſoul. O friends, I have only gi<g ref="char:EOLhyphen"/>ven a very ſhort touch of the torments of hell. O! I am ſet, I am ſet, and am not able to utter what my minde con<g ref="char:EOLhyphen"/>ceives of the torments of hell. Yet this let me ſay to thee, accept of Gods mercy, through our Lord Ieſus Chriſt, leſt thou feel that with thy conſcience, which I cannot expreſs with my
+<pb facs="tcp:32740:18"/>tongue, and ſay, I am ſorely tormented in this flame. <hi>And ſeeth Abraham afar off, and Lazarus in his boſome.</hi>
+            </p>
+            <p>When the damned are in this pittiful ſtate, ſurrounded with fears, with ter<g ref="char:EOLhyphen"/>rors, with torment and vengeance; one thing they ſhall have, which is this, they ſhall ſée the happy and bleſſed ſtate of Gods children: he ſéeth <hi>Abraham</hi> afar off, and <hi>Lazarus</hi> in his boſome, which, as I ſaid before, is the happy ſtate of the Saints, when this life is ended. This now ſhall be ſo far from being an eaſe unto them, that it ſhall moſt wonderfully aggravate or height<g ref="char:EOLhyphen"/>en their torment, as I ſaid before. There ſhall be weeping, or cauſe of la<g ref="char:EOLhyphen"/>mentation, when they ſhall ſee <hi>Abraham,</hi> and <hi>Iſaac,</hi> and <hi>Jacob</hi> in the Kingdom of Heaven, and themſelves thruſt out.</p>
+            <p n="2">2. Obſerve, thoſe that die in their ſins are far from going to Heaven. He ſéeth <hi>Abraham</hi> afar off, and <hi>Lazarus</hi> in his boſome. And indeed it is juſt with God to deal with them that die in their ſins, according to what they have done; and to make them who are far from righteouſneſs now, to ſtand far from
+<pb facs="tcp:32740:19"/>Heaven to all eternity. <hi>Hearken to this ye ſtout hearted, that are far from righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> and you that are reſolved to go on in your ſins; when you die, you will be far from Heaven; you will ſée <hi>Laza<g ref="char:EOLhyphen"/>rus,</hi> but it will be afar off. Again, <hi>he ſeeth Abraham afar off, and Lazarus in his boſome.</hi> Theſe are ſome of the things that the damned do behold, ſo ſoon as they come into torment. Mark, <hi>And he ſeeth Lazarus in Abrahams boſome. Laza<g ref="char:EOLhyphen"/>rus,</hi> who was he? Why, even he that was ſo ſlighted, ſo diſregarded, ſo unto dervalu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by this ungodly one while he was in the world; he ſéeth <hi>Lazarus</hi> in his boſome.</p>
+            <p>From whence obſerve, that thoſe who live and dye the enemies of the Saints of God; let them be never ſo great or ſtout; let them hear never ſo much ſway while they are in the world; let them brag and boaſt never ſo much while they are here, they ſhall in ſpight of their teeths ſee the Saints, yea, the poor Saints, even the <hi>Lazarus's,</hi> or the ragged ones that belong to Ieſus, to be in a better condition then them<g ref="char:EOLhyphen"/>ſelves. O who do you think was in the
+<pb facs="tcp:32740:19"/>beſt condition, or who do you think ſaw themſelves in the beſt condition, he that was in Hell, or he that was in Hea<g ref="char:EOLhyphen"/>ven? He that was in darkneſs, or he that was in light? He that was in everlaſting joy, or he that was in ever<g ref="char:EOLhyphen"/>laſting torments? The one with God, Chriſt, Saints, and Angels; the other in tormenting flames, under the curſe of Gods eternal hatred, with the devils and their angels, together with an in<g ref="char:EOLhyphen"/>numerable company of howling, roar<g ref="char:EOLhyphen"/>ing, curſing, ever burning reprobates. Certainly this obſervation will be ea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly proved to be true here in this world by him that looks upon it with an un<g ref="char:EOLhyphen"/>derſtanding heart, and will clear it ſelf to be true in the world to come, by ſuch as ſhall go either to heaven or to hell.</p>
+            <p n="2">2. The ſecond obſervation from theſe words, <hi>And ſeeth Abraham afar off, and Lazarus in his boſome,</hi> is this, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey that are the perſecutours of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aints of the Lord now in this world, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all ſee the Lords perſecuted ones, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they that are ſo highly eſteemed by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord, as to ſit, or to be in <hi>Abrahams</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſom, (in everlaſting glory) though
+<pb facs="tcp:32740:20"/>they, the enemies to the Children of God, and the practice of the Saints, did ſo lightly eſteem them, that they ſcorn to let them gather up the dogs meat that falls under their table; this is al<g ref="char:EOLhyphen"/>ſo verified and held forth plainly by this Parable. And therefore be not grieved, O you that are the tempted, perſecuted, afflicted, ſighing, praying Saints of the Lord, though your adver<g ref="char:EOLhyphen"/>ſaries look upon you now with a diſ<g ref="char:EOLhyphen"/>dainful, ſurly, rugged, proud, and haughty countenance, yet the time ſhall come, when they ſhall ſee you in <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> boſome.</p>
+            <p>And then ſhall they cry to think, that <hi>Lazarus,</hi> whom once they ſlighted, muſt be of them that muſt ſit with Chriſt it junge, or together with Chriſt, to paſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſentence of condemnation on their ſouls for ever and ever and ever, <hi>1 Cor 6.2, 3.</hi> And alſo, that when the judge<g ref="char:EOLhyphen"/>ment is over, and others are taken in to the everlaſting Kingdom of Glory then thou must depart back again <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of darkneſs, from whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than cameſt out, (to appear before th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> terrible Tribunal) where thou ſhalt
+<pb facs="tcp:32740:20"/>tormented ſo long as eternity laſts, without the leaſt intermiſſion or eaſe. How ſayeſt thou, O than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, proud, ſwearing, lying, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>godly wretch, whether this be to be ſlighted, and made a mock at. And again, tell me now, if it be not better to leave ſin, and to cloſe in with Chriſt Ieſus, notwithſtanding that reproach thou ſhalt meet with for ſo doing; then to live a little while in this world in pleaſures, and ſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing thy luſts, in neglecting the welfa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of thy ſoul, and refuſing to be justified by Ieſus, and in a moment to drop down into Hell, and ſo cry? O conſider, I ſay, conſider betimes, and put not off the tenders of the Grace of our Lord Ieſus Chriſt, leſt you lift up your eyes in Hell, and cry for anguiſly of ſpirit, as <hi>Dives</hi> did.</p>
+            <p>For you ſee here God ſends <hi>Dives</hi> his body, his rotten Carkaſs to his friends, but the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he takes poſſeſſion of his ſoul; but on the contrary, no mourning for <hi>Lazarus</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is taken for his fu<g ref="char:EOLhyphen"/>neral; his Carkaſs it may be is it <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bled into ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but <hi>Laza<g ref="char:EOLhyphen"/>rus's</hi> ſoul that's in Glory. Many <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:32740:21"/>Carkaſſes may be honourably buried, whoſe Soul ſhall be everlaſtingly damned.</p>
+            <p>From the words thus briefly opened, let me give you two or thrée obſervati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>In the firſt place then I obſerve from hence, that there is both a Heaven and a Hell, a place of joy, and a place of torment in the world to come.</p>
+            <p>Secondly, I obſerve from hence, that the Souls of the godly ſo ſoon as they are ſeparated from their bodies are received into glory.</p>
+            <p>Thirdly, I obſerve from hence then, that the Souls of wicked man when they dye are immediately ſent to Hell, when wicked men dye, the Devil pre<g ref="char:EOLhyphen"/>ſently claims their ſouls; the breath is no ſooner gone, but the Soul is in Hell.</p>
+            <p>Theſe three Points of Doctrine I ſhall firſt prove unto you from Scri<g ref="char:EOLhyphen"/>tpure evidence, and ſhew you that it is ſo; and then in the ſecond place, I ſhall endeavour to improve them, by way of Vſe and Application, for the
+<pb facs="tcp:32740:21"/>ſpiritual improvement of your preci<g ref="char:EOLhyphen"/>ous and immortal ſouls. And the firſt Point to be proved is this, that there is both a Heaven and a Hell; in hand<g ref="char:EOLhyphen"/>ling of which, I ſhall firſt ſhew you that it is ſo, that there is both a Hea<g ref="char:EOLhyphen"/>ven and a Hell: And ſecondly, what this Heaven and Hell is. That there is both a Heaven and a Hell, is a truth be<g ref="char:EOLhyphen"/>lieved in all ages, denied by none but Atheiſts, and ſuch as deny God; and they that dare deny this truth, will not dare alſo to deny God himſelf. The truth of this Point is ſo clear, that it néeds no proof, it being as clear as the Sun at Noonday, ſo that he that runs may read it; the Text it ſelf doth clearly prove this truth, <hi>Dives being in Hell ſees Lazarus in Abrahams boſome: Dives</hi> he never minded Hell ſo as to prevent it, but <hi>Dives</hi> he now findes a Hell, ſo as never to eſcape it.</p>
+            <p>That there is a Hell, ſee that place in <hi>Pſalm 9.17. The wicked ſhall be turn<g ref="char:EOLhyphen"/>ed into hell, and all the Nations that for<g ref="char:EOLhyphen"/>get God. It is better</hi> (ſaith our Saviour in <hi>Matthew 5.30.</hi>) <hi>to loſe one eye, ra<g ref="char:EOLhyphen"/>ther then our whole body ſhould enter in<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:32740:22"/>hell.</hi> That of our Saviour in the <hi>10.</hi> of <hi>Matthew</hi> and the <hi>28.</hi> verſe, is a clear proof of this Point, <hi>Fear not him which can kill the body, but is not able to kill the ſoul, but rather fear him that is able to deſtroy both ſoul and body in hell;</hi> which clearly proves that there is a Hell, wherein both ſoul and body ſhall be deſtroyed.</p>
+            <p>Secondly, that there is a Heaven, a place of Glory for the Saints in the world to come, you may ſée if you con<g ref="char:EOLhyphen"/>ſider theſe following Scriptures, <hi>Pſal. 58.11. Verily there is a reward for the righteous:</hi> And this was that which did put <hi>Moſes</hi> upon chuſing Chriſt; the Text ſaith, <hi>Heb. 11.26. He had re<g ref="char:EOLhyphen"/>ſpect to the recompence of reward. Pſal. 37.24. Thou ſhalt guide me with thy counſel, (ſaith David) and afterward re<g ref="char:EOLhyphen"/>ceive me to glory.</hi> This made the belie<g ref="char:EOLhyphen"/>ving Hebrews, <hi>Heb. 10.34.</hi> rejoyce in having their go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds ſpo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed and taken away: the Apoſtle ſaith, <hi>they knew in themſelves that they had in Heaven a bet<g ref="char:EOLhyphen"/>ter and a more induring ſubſtance. We know,</hi> ſaith the Apoſtle, <hi>2 Cor. 5.1. that if our earthly houſe of this tabernacle
+<pb facs="tcp:32740:22"/>were diſſolved, we have a building of God, an houſe not made with hands, eter<g ref="char:EOLhyphen"/>nal in the heavens. Rejoyce</hi> (ſaith our Saviour) <hi>and leap for joy, for behold your reward is great in Heaven, Luke 6.24. Sell all</hi> (ſaith our Saviour) <hi>and give to the poor, and thou ſhalt have treaſure in Heaven. Luke 18.22. This day,</hi> ſaith our Saviour to the Penitent Thief, <hi>ſhalt thou be with me in Paradice, Luke 23.43.</hi> and <hi>Chap. 24.51.</hi> our Saviour af<g ref="char:EOLhyphen"/>ter his Reſurrection is there ſaid to be carried up into Heaven. So in the <hi>16.</hi> of <hi>Mark</hi> our Saviour being riſen, and appearing to his Diſcip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid in the <hi>19.</hi> v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe. <hi>After he had ſpoken <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, he was received up into heaven, and ſate at the right hand of God.</hi> Conſider theſe Scriptures, and ſurely thou wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe that there is both a Heaven and a Hell.</p>
+            <p>Now what this Heaven is, I ſhall endeavour to declare unto you, but had I the tongue of men and Angels, it were not poſſible for me fully to de<g ref="char:EOLhyphen"/>clare unto you the glory thereof; for as the Apoſtle ſaith excellently, <hi>Eye hath not ſeen, nor ear heard, neither hath i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:32740:23"/>entered into the heart of man to conceive the things which God hath prepared for them that love him, 1 Cor. 2.9.</hi> If all the ſtars in the firmament of heaven were all Suns, (ſaith a godly man now in glory) they would be but a dark ſha<g ref="char:EOLhyphen"/>dow to the glory of heaven, and there<g ref="char:EOLhyphen"/>fore its reſerved for eternity to be known. But to give you a little glimpſe of this glory, and I ſhall but ſhew you as it were the out-ſide of your Fa<g ref="char:EOLhyphen"/>thers houſe, the inſide, or rather the perfection of all you ſhall know when you come to the enjoyment of it.</p>
+            <p>And this I ſhall briefly ſhew.
+<list>
+                  <item>1. Negatively.</item>
+                  <item>2. Comparatively, and</item>
+                  <item>3. Poſitively.</item>
+               </list>
+And for the negative part of this glory, there ſhall be no evil, the Saints in Heaven ſhall be freed from all evil, from ſin, and that's the greateſt evil; yea, the evil of evils: the people of God in Heaven ſhall be freed from all hardneſs of heart, blind<g ref="char:EOLhyphen"/>neſs of minde, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs of ſpirit; there they ſhall ſerve God freely and fully; and as they ſhall be freed from the evil of ſin, ſo they ſhall be delivered from all poſſibility of ſinning, which is
+<pb facs="tcp:32740:23"/>when the happineſs of God himſelf.</p>
+            <p n="1">1. In Heaven there ſhall be no ſor<g ref="char:EOLhyphen"/>row, ſorrow ſhall there flee away; and although <hi>through many tribulations we muſt enter into Heaven,</hi> yet in Heaven there ſhall be no tribulation, nor ſor<g ref="char:EOLhyphen"/>row; there all tears ſhall be wiped away from our eyes; and there ſhall be no more death, nor ſorrow, nor pain; no ſickneſs in heaven, no deformity, nor crookedneſs in glory, no conſum<g ref="char:EOLhyphen"/>ptions nor decaying of our bodies, no perſecutions nor oppreſſions; there in Heaven the Saints ſhall be beyond the reach of the Devil and all his in<g ref="char:EOLhyphen"/>ſtruments; in this world the Saints meet with troubles, and griefs, and perſecutions, and diſtreſſes, but in the world to come, in Heaven, they ſhall be done away.</p>
+            <p n="2">2. For the Comparative part of this glory.
+<list>
+                  <item>1. It is infinitely more then what we have here; here we know but in part, but in Heaven we ſhall know as we are known: <hi>We ſhall be like God, and we ſhall ſee him as he is, 1 John. 3.2.</hi>
+                  </item>
+                  <item>2. Its beyond the happineſs of <hi>Adam</hi> in Paradice; in Paradice <hi>Adams</hi> body
+<pb facs="tcp:32740:24"/>was but mortal, but in Heaven the bodies of the Saints are all immortal; for Chriſt <hi>will change our vile bodies, and make them like unto his glorious bo<g ref="char:EOLhyphen"/>dy, Phil. 3.21.</hi>
+                  </item>
+                  <item>3. The glory of the Saints in heaven ſhall be beyond the glory of all the moſt glorious An<g ref="char:EOLhyphen"/>gels, for they are more nearly united to Chriſt, they are the friends, the brethren of Chriſt, co-heirs with Chriſt, they ſhall be made one with Chriſt, <hi>John 17.23.</hi>
+                  </item>
+               </list>
+Chriſt took not on him the nature of Angels, <hi>Unto which of the Angels ſaid he at any time, thou art my Son, Heb. 1.5.</hi>
+            </p>
+            <p n="3">3. For the poſitive part of the glo<g ref="char:EOLhyphen"/>ry of Heaven, and this you may ſee in theſe particulars.</p>
+            <p>Firſt, In heaven there ſhall b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perfection of their nature, our body ſhall then be made like the glorious body of Chriſt, every ſoul ſhall then have one incorruptible body, there ſhall be no more death, there ſhall be a per<g ref="char:EOLhyphen"/>fection of ſoul and body.</p>
+            <p>Secondly, they ſhall poſſeſs and enjoy the Kingdom of Heaven, even the hea<g ref="char:EOLhyphen"/>ven of heavens, they ſhall be lifted u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:32740:24"/>above the ſpangled firmament which is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t the lower pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ement of our Fa<g ref="char:EOLhyphen"/>vors h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe: and this ſhould comfort ſuch of Gods people, as (with poor <hi>La<g ref="char:EOLhyphen"/>zarus</hi>) have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poſſeſſions here, they ſhall poſſeſs heavens and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the glory thereof, which is better then the enjoyment of all the world, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the glo<g ref="char:EOLhyphen"/>ry of Heaven is eternal.</p>
+            <p>Thirdly, They ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y God him<g ref="char:EOLhyphen"/>ſelf, which ſhall be the glory of all; for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as one ſaith ſweetly. Heaven would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he no Heaven, were it not for the pre<g ref="char:EOLhyphen"/>ſence of God; <hi>In thy preſence is light, and at thy right hand are pleaſures for evermore:</hi> and this muſt needs fill our ſoul with glory, for the preſence of God fills Heaven with Glory. O what a glorious being ſhall the Saints have in glory, when God himſelf ſhall be their glory; for they ſhall have <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on and communion with God, and Chriſt, Saints and Angels ſo to all eternity.</p>
+            <p>Thus much briefly of the glory of Heaven. The next thing I have to do, is briefly to inform you what Hell is. And in the firſt place, it's a place of darkneſs, even utter darkneſs, a
+<pb facs="tcp:32740:25"/>place of pain and ſorrow, of endleſs an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eaſeleſs woe, as you may clearly ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the words of the Text, <hi>I am tormen<g ref="char:EOLhyphen"/>ted in this flame,</hi> ſaith <hi>Dives;</hi> there's no coming from thence, out of Hel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there's no redemption; its called i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Scripture <hi>a lake which burneth with fire and brimſtone, Rev. 20.14, 15.</hi> So that dreadful place in <hi>Rev. 21.8. the fearful unbelieving, abominable murderer whore mongers, ſorcerers, idolaters, and all ly an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall have their part in the lake which burneth with fire and brimſtone,</hi> a place of everlaſting darkneſs, where th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Devils are bound in chains, <hi>Jude 6.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> place of everlaſting woe. Sée the dread<g ref="char:EOLhyphen"/>ful ſentence againſt the wicked, at the great day, <hi>Depart from the ye cur<g ref="char:EOLhyphen"/>ſed into everlaſting fire, prepared for the devil and his angels, Mat. 25.4.</hi> The tor<g ref="char:EOLhyphen"/>ments of hell as they are eaſeleſs, ſo they are endleſs, when the damned in hell have undergone the wrath of God ten thouſand times then thouſand mil<g ref="char:EOLhyphen"/>lions of years, they ſhall be as far from having an end as they were at the firſt: it was an excellent compariſon which I have heard from a godly and
+<pb facs="tcp:32740:25"/>learned Divine, ſpeaking of the ever<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſting torments of Hell. If (ſaith he) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> barn or ſome other great place ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e filled top full of the pureſt wheat, and a bird ſhould come once every thou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and years and fetch away a corn, there might at laſt be an end of all, the barn might at laſt be emptied; but as for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he torments of hell they have no end; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en thouſand times ten thouſand mil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of dayes doth not at all ſhorten <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he miſery and torments of the damned. Conſider this all you that are ungodly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt living and dying in your ſins, ye alſo come to this place of torment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:32740:26"/>
+            <pb facs="tcp:32740:26"/>
+            <head>Courteous Reader.</head>
+            <p>THere is lately publiſhed an excellent and profitable Sermon, called, Chriſts firſt Sermon, or, The neceſſity, duty and practice of Repentance, opened and ap<g ref="char:EOLhyphen"/>plied. Alſo Chriſts laſt Sermon, or, The ever<g ref="char:EOLhyphen"/>laſting eſtate and condition of all men in the world to come. Likewiſe the Chriſtians beſt Garment, or, The putting on of the Lord Jeſus Chriſt. And the Chriſtians bleſ<g ref="char:EOLhyphen"/>ſed Choice. Very godly Books, and are but three pence price.</p>
+            <p>There are likewiſe eight other ſmall Books, all of them very godly, and very comfortable for thy ſoul. One is entituled, Englands Faithful Phyſician. The ſecond, Dooms-day at hand. The third, the dreadful character of a drunkard. The fourth, The Father laſt Bleſſing to his children. The fifth, The ſin of Pride arraigned and con<g ref="char:EOLhyphen"/>demned. The ſixth, The Charitable Chri<g ref="char:EOLhyphen"/>ſtian. The ſeventh, The Plain Mans Plain Path-way to Heaven. The eight, the Black Book of Conſcience. All very neceſſary for theſe licentious times, and each of them being but of two pence price. They are to be ſold by <hi>John Andrews,</hi> at the White Lion near <hi>Pye-Corner</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
